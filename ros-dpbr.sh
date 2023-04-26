@@ -1,18 +1,26 @@
 #!/bin/sh
+
 mkdir -p ./pbr
 cd ./pbr
 
-# AS4809 BGP
-wget --no-check-certificate -c -O CN.txt https://raw.githubusercontent.com/mayaxcn/china-ip-list/master/chnroute.txt
+# Download the first file
+wget --no-check-certificate -c -O CNip1.txt https://raw.githubusercontent.com/mayaxcn/china-ip-list/master/chnroute.txt
+
+# Download the second file
+wget --no-check-certificate -c -O CNip2.txt https://raw.githubusercontent.com/DMF2022/ROS-cnip-script/main/cnip.rsc
+
+# Combine both files and remove duplicates
+cat CNip1.txt CNip2.txt | sort -u > CNip.txt
 
 {
 echo "/ip firewall address-list"
 
-for net in $(cat CN.txt) ; do
-  echo "add list=CN address=$net comment=AS4809"
+for net in $(cat CNip.txt) ; do
+  echo "add address=$net disabled=no list=china-ip"
 done
 
-} > ../CN.rsc
+} > ../CNip.rsc
 
 cd ..
 rm -rf ./pbr
+
