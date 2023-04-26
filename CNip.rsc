@@ -1,6 +1,7 @@
 /ip firewall address-list
-add address=/ip disabled=no list=china-ip
 add address=192.168.2.0/24 disabled=no list=china-ip
+add address=/ip disabled=no list=china-ip
+add address=firewall disabled=no list=china-ip
 add address=address-list disabled=no list=china-ip
 add address=1.0.1.0/24 disabled=no list=china-ip
 add address=1.0.2.0/23 disabled=no list=china-ip
