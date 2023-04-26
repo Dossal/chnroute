@@ -28,4 +28,4 @@ jobs:
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
-        github_token: ${{ secrets.botmaster }}
+        github_token: ${{ secrets.WDNMD }}
