@@ -8627,6 +8627,7 @@ add address=61.29.128.0/18 disabled=no list=china-ip
 add address=61.29.192.0/19 disabled=no list=china-ip
 add address=61.29.224.0/20 disabled=no list=china-ip
 add address=61.29.240.0/21 disabled=no list=china-ip
+add address=61.29.240.0/22 disabled=no list=china-ip
 add address=61.29.248.0/22 disabled=no list=china-ip
 add address=61.29.254.0/23 disabled=no list=china-ip
 add address=61.4.176.0/20 disabled=no list=china-ip
