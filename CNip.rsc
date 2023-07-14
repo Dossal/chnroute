@@ -1804,6 +1804,7 @@ add address=103.238.0.0/22 disabled=no list=china-ip
 add address=103.238.132.0/22 disabled=no list=china-ip
 add address=103.238.140.0/22 disabled=no list=china-ip
 add address=103.238.144.0/22 disabled=no list=china-ip
+add address=103.238.152.0/23 disabled=no list=china-ip
 add address=103.238.16.0/22 disabled=no list=china-ip
 add address=103.238.160.0/22 disabled=no list=china-ip
 add address=103.238.164.0/22 disabled=no list=china-ip
