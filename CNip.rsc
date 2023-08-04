@@ -451,6 +451,7 @@ add address=103.12.184.0/22 disabled=no list=china-ip
 add address=103.12.232.0/22 disabled=no list=china-ip
 add address=103.12.32.0/22 disabled=no list=china-ip
 add address=103.12.68.0/22 disabled=no list=china-ip
+add address=103.12.68.0/23 disabled=no list=china-ip
 add address=103.12.92.0/22 disabled=no list=china-ip
 add address=103.12.98.0/23 disabled=no list=china-ip
 add address=103.120.100.0/22 disabled=no list=china-ip
