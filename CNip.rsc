@@ -3038,6 +3038,7 @@ add address=103.75.128.0/22 disabled=no list=china-ip
 add address=103.75.144.0/22 disabled=no list=china-ip
 add address=103.75.152.0/22 disabled=no list=china-ip
 add address=103.75.236.0/24 disabled=no list=china-ip
+add address=103.75.82.0/23 disabled=no list=china-ip
 add address=103.75.88.0/22 disabled=no list=china-ip
 add address=103.75.92.0/22 disabled=no list=china-ip
 add address=103.76.216.0/22 disabled=no list=china-ip
