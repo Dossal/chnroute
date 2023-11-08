@@ -3353,7 +3353,6 @@ add address=103.96.212.0/22 disabled=no list=china-ip
 add address=103.96.216.0/22 disabled=no list=china-ip
 add address=103.96.224.0/23 disabled=no list=china-ip
 add address=103.96.8.0/22 disabled=no list=china-ip
-add address=103.96.80.0/22 disabled=no list=china-ip
 add address=103.97.112.0/22 disabled=no list=china-ip
 add address=103.97.116.0/22 disabled=no list=china-ip
 add address=103.97.12.0/22 disabled=no list=china-ip
