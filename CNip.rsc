@@ -6506,6 +6506,7 @@ add address=210.82.0.0/15 disabled=no list=china-ip
 add address=210.87.128.0/20 disabled=no list=china-ip
 add address=210.87.144.0/20 disabled=no list=china-ip
 add address=210.87.160.0/19 disabled=no list=china-ip
+add address=210.87.72.0/23 disabled=no list=china-ip
 add address=211.100.0.0/16 disabled=no list=china-ip
 add address=211.101.0.0/18 disabled=no list=china-ip
 add address=211.101.128.0/17 disabled=no list=china-ip
