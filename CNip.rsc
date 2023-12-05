@@ -3703,7 +3703,6 @@ add address=116.2.0.0/15 disabled=no list=china-ip
 add address=116.204.0.0/17 disabled=no list=china-ip
 add address=116.204.132.0/22 disabled=no list=china-ip
 add address=116.204.216.0/22 disabled=no list=china-ip
-add address=116.204.232.0/22 disabled=no list=china-ip
 add address=116.205.0.0/16 disabled=no list=china-ip
 add address=116.207.0.0/16 disabled=no list=china-ip
 add address=116.208.0.0/14 disabled=no list=china-ip
