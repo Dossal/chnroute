@@ -1869,7 +1869,6 @@ add address=103.241.220.0/22 disabled=no list=china-ip
 add address=103.241.72.0/22 disabled=no list=china-ip
 add address=103.241.92.0/22 disabled=no list=china-ip
 add address=103.241.96.0/22 disabled=no list=china-ip
-add address=103.242.12.0/22 disabled=no list=china-ip
 add address=103.242.128.0/22 disabled=no list=china-ip
 add address=103.242.132.0/22 disabled=no list=china-ip
 add address=103.242.160.0/22 disabled=no list=china-ip
