@@ -4116,6 +4116,7 @@ add address=123.101.0.0/16 disabled=no list=china-ip
 add address=123.103.0.0/17 disabled=no list=china-ip
 add address=123.108.128.0/20 disabled=no list=china-ip
 add address=123.108.208.0/20 disabled=no list=china-ip
+add address=123.108.88.0/23 disabled=no list=china-ip
 add address=123.112.0.0/12 disabled=no list=china-ip
 add address=123.128.0.0/13 disabled=no list=china-ip
 add address=123.136.80.0/20 disabled=no list=china-ip
