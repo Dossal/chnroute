@@ -4442,6 +4442,9 @@ add address=153.36.0.0/15 disabled=no list=china-ip
 add address=153.99.0.0/16 disabled=no list=china-ip
 add address=154.8.128.0/17 disabled=no list=china-ip
 add address=157.0.0.0/16 disabled=no list=china-ip
+add address=157.10.112.0/23 disabled=no list=china-ip
+add address=157.10.118.0/23 disabled=no list=china-ip
+add address=157.10.130.0/23 disabled=no list=china-ip
 add address=157.10.34.0/23 disabled=no list=china-ip
 add address=157.10.36.0/23 disabled=no list=china-ip
 add address=157.119.12.0/22 disabled=no list=china-ip
