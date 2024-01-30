@@ -4469,6 +4469,7 @@ add address=157.119.28.0/22 disabled=no list=china-ip
 add address=157.119.8.0/22 disabled=no list=china-ip
 add address=157.122.0.0/16 disabled=no list=china-ip
 add address=157.148.0.0/16 disabled=no list=china-ip
+add address=157.15.74.0/23 disabled=no list=china-ip
 add address=157.156.0.0/16 disabled=no list=china-ip
 add address=157.18.0.0/16 disabled=no list=china-ip
 add address=157.255.0.0/16 disabled=no list=china-ip
