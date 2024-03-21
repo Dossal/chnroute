@@ -5032,6 +5032,7 @@ add address=157.156.0.0/16 disabled=no list=china-ip
 add address=157.18.0.0/16 disabled=no list=china-ip
 add address=157.20.136.0/23 disabled=no list=china-ip
 add address=157.20.194.0/23 disabled=no list=china-ip
+add address=157.20.246.0/23 disabled=no list=china-ip
 add address=157.20.33.0/24 disabled=no list=china-ip
 add address=157.255.0.0/16 disabled=no list=china-ip
 add address=157.61.0.0/16 disabled=no list=china-ip
