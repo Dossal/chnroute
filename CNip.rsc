@@ -7682,6 +7682,7 @@ add address=39.64.0.0/11 disabled=no list=china-ip
 add address=39.96.0.0/13 disabled=no list=china-ip
 add address=40.125.128.0/17 disabled=no list=china-ip
 add address=40.126.64.0/18 disabled=no list=china-ip
+add address=40.162.0.0/16 disabled=no list=china-ip
 add address=40.72.0.0/15 disabled=no list=china-ip
 add address=42.0.0.0/22 disabled=no list=china-ip
 add address=42.0.128.0/17 disabled=no list=china-ip
