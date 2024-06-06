@@ -5050,6 +5050,7 @@ add address=160.202.248.0/22 disabled=no list=china-ip
 add address=160.202.252.0/22 disabled=no list=china-ip
 add address=160.202.60.0/22 disabled=no list=china-ip
 add address=160.22.58.0/23 disabled=no list=china-ip
+add address=160.22.82.0/23 disabled=no list=china-ip
 add address=161.120.0.0/16 disabled=no list=china-ip
 add address=161.189.0.0/16 disabled=no list=china-ip
 add address=161.207.0.0/16 disabled=no list=china-ip
