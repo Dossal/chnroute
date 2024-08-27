@@ -5053,6 +5053,9 @@ add address=160.25.20.0/23 disabled=no list=china-ip
 add address=160.30.148.0/22 disabled=no list=china-ip
 add address=160.30.148.0/23 disabled=no list=china-ip
 add address=160.30.150.0/23 disabled=no list=china-ip
+add address=160.30.194.0/23 disabled=no list=china-ip
+add address=160.30.196.0/23 disabled=no list=china-ip
+add address=160.30.198.0/23 disabled=no list=china-ip
 add address=160.30.40.0/23 disabled=no list=china-ip
 add address=161.120.0.0/16 disabled=no list=china-ip
 add address=161.189.0.0/16 disabled=no list=china-ip
@@ -7375,6 +7378,8 @@ add address=220.101.192.0/18 disabled=no list=china-ip
 add address=220.112.0.0/14 disabled=no list=china-ip
 add address=220.152.128.0/17 disabled=no list=china-ip
 add address=220.154.0.0/15 disabled=no list=china-ip
+add address=220.154.0.0/16 disabled=no list=china-ip
+add address=220.155.0.0/16 disabled=no list=china-ip
 add address=220.158.240.0/22 disabled=no list=china-ip
 add address=220.160.0.0/11 disabled=no list=china-ip
 add address=220.192.0.0/12 disabled=no list=china-ip
