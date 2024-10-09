@@ -5009,6 +5009,7 @@ add address=158.79.0.0/16 disabled=no list=china-ip
 add address=159.226.0.0/16 disabled=no list=china-ip
 add address=159.27.0.0/16 disabled=no list=china-ip
 add address=159.75.0.0/16 disabled=no list=china-ip
+add address=160.187.223.0/24 disabled=no list=china-ip
 add address=160.19.208.0/21 disabled=no list=china-ip
 add address=160.19.208.0/22 disabled=no list=china-ip
 add address=160.19.212.0/22 disabled=no list=china-ip
