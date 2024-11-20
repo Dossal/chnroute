@@ -711,7 +711,6 @@ add address=103.151.148.0/22 disabled=no list=china-ip
 add address=103.151.148.0/23 disabled=no list=china-ip
 add address=103.151.150.0/23 disabled=no list=china-ip
 add address=103.151.158.0/23 disabled=no list=china-ip
-add address=103.151.178.0/23 disabled=no list=china-ip
 add address=103.151.206.0/23 disabled=no list=china-ip
 add address=103.151.216.0/23 disabled=no list=china-ip
 add address=103.151.228.0/23 disabled=no list=china-ip
