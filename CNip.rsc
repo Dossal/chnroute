@@ -5053,6 +5053,7 @@ add address=160.25.20.0/23 disabled=no list=china-ip
 add address=160.250.102.0/23 disabled=no list=china-ip
 add address=160.250.104.0/23 disabled=no list=china-ip
 add address=160.250.14.0/23 disabled=no list=china-ip
+add address=160.250.140.0/24 disabled=no list=china-ip
 add address=160.250.16.0/22 disabled=no list=china-ip
 add address=160.250.16.0/23 disabled=no list=china-ip
 add address=160.250.18.0/23 disabled=no list=china-ip
