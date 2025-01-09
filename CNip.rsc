@@ -5068,6 +5068,7 @@ add address=161.248.108.0/22 disabled=no list=china-ip
 add address=161.248.108.0/23 disabled=no list=china-ip
 add address=161.248.110.0/23 disabled=no list=china-ip
 add address=161.248.112.0/23 disabled=no list=china-ip
+add address=161.248.136.0/23 disabled=no list=china-ip
 add address=161.248.20.0/23 disabled=no list=china-ip
 add address=161.248.42.0/23 disabled=no list=china-ip
 add address=161.248.84.0/23 disabled=no list=china-ip
