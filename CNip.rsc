@@ -204,7 +204,6 @@ add address=103.101.144.0/22 disabled=no list=china-ip
 add address=103.101.148.0/22 disabled=no list=china-ip
 add address=103.101.180.0/22 disabled=no list=china-ip
 add address=103.101.184.0/22 disabled=no list=china-ip
-add address=103.101.4.0/22 disabled=no list=china-ip
 add address=103.101.60.0/22 disabled=no list=china-ip
 add address=103.101.8.0/21 disabled=no list=china-ip
 add address=103.101.8.0/22 disabled=no list=china-ip
