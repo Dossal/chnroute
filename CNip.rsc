@@ -605,7 +605,6 @@ add address=103.142.28.0/23 disabled=no list=china-ip
 add address=103.142.58.0/23 disabled=no list=china-ip
 add address=103.142.82.0/23 disabled=no list=china-ip
 add address=103.142.96.0/23 disabled=no list=china-ip
-add address=103.143.120.0/23 disabled=no list=china-ip
 add address=103.143.124.0/23 disabled=no list=china-ip
 add address=103.143.132.0/22 disabled=no list=china-ip
 add address=103.143.132.0/23 disabled=no list=china-ip
