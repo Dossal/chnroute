@@ -5077,6 +5077,8 @@ add address=163.142.0.0/16 disabled=no list=china-ip
 add address=163.177.0.0/16 disabled=no list=china-ip
 add address=163.179.0.0/16 disabled=no list=china-ip
 add address=163.204.0.0/16 disabled=no list=china-ip
+add address=163.223.28.0/23 disabled=no list=china-ip
+add address=163.223.32.0/23 disabled=no list=china-ip
 add address=163.228.0.0/16 disabled=no list=china-ip
 add address=163.47.4.0/22 disabled=no list=china-ip
 add address=163.53.0.0/20 disabled=no list=china-ip
