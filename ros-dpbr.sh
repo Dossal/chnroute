@@ -14,10 +14,10 @@ cat CNip1.txt CNip2.txt | sort -u > CNip.txt
 
 {
 echo "/ip firewall address-list"
-echo "add address=192.168.2.0/24 disabled=no list=china-ip"
-echo "add address=183.219.57.0/24 disabled=no list=china-ip"
+echo "add address=192.168.2.0/24 disabled=no list=CNip"
+echo "add address=183.219.57.0/24 disabled=no list=CNip"
 for net in $(cat CNip.txt) ; do
-  echo "add address=$net disabled=no list=china-ip"
+  echo "add address=$net disabled=no list=CNip"
 done
     
 } > ../CNip.rsc
