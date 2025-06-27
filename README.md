@@ -16,4 +16,13 @@ ip段信息取自 [china-ip-list](https://github.com/mayaxcn/china-ip-list)
 }
 ```
 
+ROS7.2以上版本
+
+/tool fetch url="https://www.truenasscale.com/cnip.rsc](https://cdn.jsdelivr.net/gh/Dossal/chnroute@main/CNip.rsc" \
+dst-path=cnip.rsc
+/im file=cnip.rsc
+/file remove [find name="cnip.rsc"]
+:log info ("update done")
+
+
 用于Firewall - mangle页，通过dst-addrss= 引用
