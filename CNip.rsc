@@ -1,5 +1,4 @@
 /ip firewall address-list
-add address=192.168.7.0/24 disabled=no list=CNip comment=CNipv4
 add address=198.17.0.0/16 disabled=no list=fake_ip comment=fake_ip
 add address=1.0.1.0/24 disabled=no list=CNip comment=CNipv4
 add address=1.0.2.0/23 disabled=no list=CNip comment=CNipv4
