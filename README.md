@@ -11,7 +11,7 @@ ip段信息取自 [china-ip-list](https://github.com/mayaxcn/china-ip-list)
 /file remove [find name="CNip.rsc"]
 /tool fetch url="https://cdn.jsdelivr.net/gh/Dossal/chnroute@main/CNip.rsc"
 :if ([:len [/file find name=CNip.rsc]] > 0) do={
-/ip firewall address-list remove [find comment="AS4809"]
+/ip firewall address-list remove [find comment="CNipv4"]
 /import CNip.rsc
 }
 ```
