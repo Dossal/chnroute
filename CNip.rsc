@@ -653,7 +653,6 @@ add address=103.149.242.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.149.244.0/22 disabled=no list=CNip comment=CNipv4
 add address=103.149.244.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.149.246.0/23 disabled=no list=CNip comment=CNipv4
-add address=103.149.248.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.149.44.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.149.6.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.15.16.0/22 disabled=no list=CNip comment=CNipv4
