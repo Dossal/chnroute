@@ -636,6 +636,7 @@ add address=103.146.72.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.146.90.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.147.12.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.147.124.0/23 disabled=no list=CNip comment=CNipv4
+add address=103.147.198.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.147.206.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.148.174.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.149.110.0/23 disabled=no list=CNip comment=CNipv4
