@@ -5919,7 +5919,6 @@ add address=202.79.224.0/21 disabled=no list=CNip comment=CNipv4
 add address=202.79.248.0/22 disabled=no list=CNip comment=CNipv4
 add address=202.8.0.0/24 disabled=no list=CNip comment=CNipv4
 add address=202.8.12.0/24 disabled=no list=CNip comment=CNipv4
-add address=202.8.120.0/22 disabled=no list=CNip comment=CNipv4
 add address=202.8.128.0/19 disabled=no list=CNip comment=CNipv4
 add address=202.8.192.0/20 disabled=no list=CNip comment=CNipv4
 add address=202.8.2.0/23 disabled=no list=CNip comment=CNipv4
