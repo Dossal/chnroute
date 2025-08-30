@@ -5896,6 +5896,7 @@ add address=165.99.4.0/24 disabled=no list=CNip comment=CNipv4
 add address=165.99.42.0/23 disabled=no list=CNip comment=CNipv4
 add address=166.111.0.0/16 disabled=no list=CNip comment=CNipv4
 add address=167.139.0.0/16 disabled=no list=CNip comment=CNipv4
+add address=167.148.46.0/24 disabled=no list=CNip comment=CNipv4
 add address=167.189.0.0/16 disabled=no list=CNip comment=CNipv4
 add address=167.220.244.0/22 disabled=no list=CNip comment=CNipv4
 add address=168.159.144.0/21 disabled=no list=CNip comment=CNipv4
