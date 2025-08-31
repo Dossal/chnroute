@@ -23,6 +23,7 @@ add address=1.116.0.0/15 disabled=no list=CNip comment=CNipv4
 add address=1.118.0.0/16 disabled=no list=CNip comment=CNipv4
 add address=1.118.2.0/24 disabled=no list=CNip comment=CNipv4
 add address=1.118.32.0/22 disabled=no list=CNip comment=CNipv4
+add address=1.118.36.0/24 disabled=no list=CNip comment=CNipv4
 add address=1.119.0.0/17 disabled=no list=CNip comment=CNipv4
 add address=1.119.128.0/17 disabled=no list=CNip comment=CNipv4
 add address=1.119.128.0/18 disabled=no list=CNip comment=CNipv4
