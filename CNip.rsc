@@ -766,7 +766,6 @@ add address=103.151.5.0/24 disabled=no list=CNip comment=CNipv4
 add address=103.152.112.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.152.120.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.152.122.0/23 disabled=no list=CNip comment=CNipv4
-add address=103.152.14.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.152.152.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.152.168.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.152.170.0/23 disabled=no list=CNip comment=CNipv4
