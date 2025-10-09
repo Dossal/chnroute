@@ -3952,6 +3952,7 @@ add address=113.212.0.0/18 disabled=no list=CNip comment=CNipv4
 add address=113.212.100.0/22 disabled=no list=CNip comment=CNipv4
 add address=113.212.184.0/21 disabled=no list=CNip comment=CNipv4
 add address=113.213.0.0/17 disabled=no list=CNip comment=CNipv4
+add address=113.213.0.0/18 disabled=no list=CNip comment=CNipv4
 add address=113.213.64.0/19 disabled=no list=CNip comment=CNipv4
 add address=113.213.96.0/20 disabled=no list=CNip comment=CNipv4
 add address=113.214.0.0/15 disabled=no list=CNip comment=CNipv4
