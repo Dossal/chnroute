@@ -2785,6 +2785,8 @@ add address=103.49.12.0/22 disabled=no list=CNip comment=CNipv4
 add address=103.49.176.0/22 disabled=no list=CNip comment=CNipv4
 add address=103.49.180.0/22 disabled=no list=CNip comment=CNipv4
 add address=103.49.196.0/22 disabled=no list=CNip comment=CNipv4
+add address=103.49.196.0/24 disabled=no list=CNip comment=CNipv4
+add address=103.49.198.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.49.20.0/22 disabled=no list=CNip comment=CNipv4
 add address=103.49.72.0/22 disabled=no list=CNip comment=CNipv4
 add address=103.49.76.0/22 disabled=no list=CNip comment=CNipv4
