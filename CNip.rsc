@@ -5192,9 +5192,7 @@ add address=123.49.194.0/24 disabled=no list=CNip comment=CNipv4
 add address=123.49.224.0/24 disabled=no list=CNip comment=CNipv4
 add address=123.49.229.0/24 disabled=no list=CNip comment=CNipv4
 add address=123.49.232.0/24 disabled=no list=CNip comment=CNipv4
-add address=123.49.240.0/22 disabled=no list=CNip comment=CNipv4
-add address=123.49.244.0/24 disabled=no list=CNip comment=CNipv4
-add address=123.49.246.0/23 disabled=no list=CNip comment=CNipv4
+add address=123.49.240.0/21 disabled=no list=CNip comment=CNipv4
 add address=123.50.160.0/19 disabled=no list=CNip comment=CNipv4
 add address=123.52.0.0/14 disabled=no list=CNip comment=CNipv4
 add address=123.56.0.0/15 disabled=no list=CNip comment=CNipv4
