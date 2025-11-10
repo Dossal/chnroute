@@ -9191,7 +9191,6 @@ add address=36.96.0.0/11 disabled=no list=CNip comment=CNipv4
 add address=36.96.0.0/12 disabled=no list=CNip comment=CNipv4
 add address=38.111.220.0/23 disabled=no list=CNip comment=CNipv4
 add address=38.211.199.0/24 disabled=no list=CNip comment=CNipv4
-add address=38.213.146.0/24 disabled=no list=CNip comment=CNipv4
 add address=39.0.0.0/24 disabled=no list=CNip comment=CNipv4
 add address=39.0.128.0/17 disabled=no list=CNip comment=CNipv4
 add address=39.0.16.0/20 disabled=no list=CNip comment=CNipv4
