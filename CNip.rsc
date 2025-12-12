@@ -594,7 +594,6 @@ add address=103.133.232.0/22 disabled=no list=CNip comment=CNipv4
 add address=103.133.40.0/22 disabled=no list=CNip comment=CNipv4
 add address=103.134.196.0/22 disabled=no list=CNip comment=CNipv4
 add address=103.134.232.0/23 disabled=no list=CNip comment=CNipv4
-add address=103.135.100.0/24 disabled=no list=CNip comment=CNipv4
 add address=103.135.124.0/22 disabled=no list=CNip comment=CNipv4
 add address=103.135.148.0/22 disabled=no list=CNip comment=CNipv4
 add address=103.135.156.0/22 disabled=no list=CNip comment=CNipv4
@@ -5471,7 +5470,6 @@ add address=138.252.162.0/23 disabled=no list=CNip comment=CNipv4
 add address=138.252.72.0/23 disabled=no list=CNip comment=CNipv4
 add address=138.252.78.0/23 disabled=no list=CNip comment=CNipv4
 add address=138.252.96.0/23 disabled=no list=CNip comment=CNipv4
-add address=138.252.97.0/24 disabled=no list=CNip comment=CNipv4
 add address=139.129.0.0/16 disabled=no list=CNip comment=CNipv4
 add address=139.148.0.0/16 disabled=no list=CNip comment=CNipv4
 add address=139.155.0.0/16 disabled=no list=CNip comment=CNipv4
@@ -5674,10 +5672,6 @@ add address=154.208.140.0/22 disabled=no list=CNip comment=CNipv4
 add address=154.208.144.0/20 disabled=no list=CNip comment=CNipv4
 add address=154.208.160.0/21 disabled=no list=CNip comment=CNipv4
 add address=154.208.172.0/23 disabled=no list=CNip comment=CNipv4
-add address=154.223.168.0/24 disabled=no list=CNip comment=CNipv4
-add address=154.223.179.0/24 disabled=no list=CNip comment=CNipv4
-add address=154.223.180.0/24 disabled=no list=CNip comment=CNipv4
-add address=154.223.182.0/24 disabled=no list=CNip comment=CNipv4
 add address=154.72.42.0/24 disabled=no list=CNip comment=CNipv4
 add address=154.72.44.0/24 disabled=no list=CNip comment=CNipv4
 add address=154.72.47.0/24 disabled=no list=CNip comment=CNipv4
