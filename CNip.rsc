@@ -5571,6 +5571,7 @@ add address=142.70.0.0/16 disabled=no list=CNip comment=CNipv4
 add address=142.86.0.0/16 disabled=no list=CNip comment=CNipv4
 add address=143.14.49.0/24 disabled=no list=CNip comment=CNipv4
 add address=143.20.147.0/24 disabled=no list=CNip comment=CNipv4
+add address=143.20.246.0/24 disabled=no list=CNip comment=CNipv4
 add address=143.64.0.0/16 disabled=no list=CNip comment=CNipv4
 add address=144.0.0.0/16 disabled=no list=CNip comment=CNipv4
 add address=144.12.0.0/16 disabled=no list=CNip comment=CNipv4
