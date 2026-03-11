@@ -3205,7 +3205,7 @@ add address=103.73.248.0/22 disabled=no list=CNip comment=CNipv4
 add address=103.73.28.0/22 disabled=no list=CNip comment=CNipv4
 add address=103.73.4.0/22 disabled=no list=CNip comment=CNipv4
 add address=103.73.48.0/22 disabled=no list=CNip comment=CNipv4
-add address=103.73.48.0/24 disabled=no list=CNip comment=CNipv4
+add address=103.73.48.0/23 disabled=no list=CNip comment=CNipv4
 add address=103.73.8.0/22 disabled=no list=CNip comment=CNipv4
 add address=103.74.124.0/22 disabled=no list=CNip comment=CNipv4
 add address=103.74.148.0/22 disabled=no list=CNip comment=CNipv4
