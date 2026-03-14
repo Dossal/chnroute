@@ -4221,6 +4221,7 @@ add address=116.198.80.0/21 disabled=no list=CNip comment=CNipv4
 add address=116.198.96.0/19 disabled=no list=CNip comment=CNipv4
 add address=116.199.0.0/17 disabled=no list=CNip comment=CNipv4
 add address=116.199.128.0/19 disabled=no list=CNip comment=CNipv4
+add address=116.199.156.0/22 disabled=no list=CNip comment=CNipv4
 add address=116.2.0.0/15 disabled=no list=CNip comment=CNipv4
 add address=116.204.0.0/17 disabled=no list=CNip comment=CNipv4
 add address=116.204.132.0/22 disabled=no list=CNip comment=CNipv4
