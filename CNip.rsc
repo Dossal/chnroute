@@ -10103,7 +10103,6 @@ add address=44.31.216.0/24 disabled=no list=CNip comment=CNipv4
 add address=44.31.28.0/24 disabled=no list=CNip comment=CNipv4
 add address=44.31.42.0/24 disabled=no list=CNip comment=CNipv4
 add address=44.31.81.0/24 disabled=no list=CNip comment=CNipv4
-add address=44.31.96.0/24 disabled=no list=CNip comment=CNipv4
 add address=44.32.143.0/24 disabled=no list=CNip comment=CNipv4
 add address=44.32.191.0/24 disabled=no list=CNip comment=CNipv4
 add address=44.32.192.0/24 disabled=no list=CNip comment=CNipv4
