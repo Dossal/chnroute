@@ -5720,7 +5720,6 @@ add address=153.3.0.0/16 disabled=no list=CNip comment=CNipv4
 add address=153.34.0.0/15 disabled=no list=CNip comment=CNipv4
 add address=153.36.0.0/15 disabled=no list=CNip comment=CNipv4
 add address=153.99.0.0/16 disabled=no list=CNip comment=CNipv4
-add address=154.19.43.0/24 disabled=no list=CNip comment=CNipv4
 add address=154.72.42.0/24 disabled=no list=CNip comment=CNipv4
 add address=154.72.44.0/24 disabled=no list=CNip comment=CNipv4
 add address=154.72.47.0/24 disabled=no list=CNip comment=CNipv4
@@ -5760,7 +5759,6 @@ add address=157.10.218.0/23 disabled=no list=CNip comment=CNipv4
 add address=157.10.220.0/23 disabled=no list=CNip comment=CNipv4
 add address=157.10.246.0/23 disabled=no list=CNip comment=CNipv4
 add address=157.10.34.0/23 disabled=no list=CNip comment=CNipv4
-add address=157.10.34.0/24 disabled=no list=CNip comment=CNipv4
 add address=157.10.36.0/23 disabled=no list=CNip comment=CNipv4
 add address=157.119.12.0/22 disabled=no list=CNip comment=CNipv4
 add address=157.119.132.0/22 disabled=no list=CNip comment=CNipv4
