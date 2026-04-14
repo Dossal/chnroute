@@ -4772,11 +4772,10 @@ add address=120.136.128.0/18 disabled=no list=CNip comment=CNipv4
 add address=120.136.128.0/21 disabled=no list=CNip comment=CNipv4
 add address=120.136.140.0/22 disabled=no list=CNip comment=CNipv4
 add address=120.136.144.0/20 disabled=no list=CNip comment=CNipv4
+add address=120.136.16.0/21 disabled=no list=CNip comment=CNipv4
 add address=120.136.16.0/22 disabled=no list=CNip comment=CNipv4
-add address=120.136.16.0/23 disabled=no list=CNip comment=CNipv4
 add address=120.136.160.0/20 disabled=no list=CNip comment=CNipv4
 add address=120.136.176.0/21 disabled=no list=CNip comment=CNipv4
-add address=120.136.18.0/24 disabled=no list=CNip comment=CNipv4
 add address=120.136.184.0/22 disabled=no list=CNip comment=CNipv4
 add address=120.136.188.0/23 disabled=no list=CNip comment=CNipv4
 add address=120.136.190.0/24 disabled=no list=CNip comment=CNipv4
