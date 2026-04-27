@@ -5987,7 +5987,6 @@ add address=171.80.0.0/14 disabled=no list=CNip comment=CNipv4
 add address=171.84.0.0/14 disabled=no list=CNip comment=CNipv4
 add address=171.88.0.0/13 disabled=no list=CNip comment=CNipv4
 add address=172.81.192.0/18 disabled=no list=CNip comment=CNipv4
-add address=174.136.239.0/24 disabled=no list=CNip comment=CNipv4
 add address=175.0.0.0/12 disabled=no list=CNip comment=CNipv4
 add address=175.102.0.0/16 disabled=no list=CNip comment=CNipv4
 add address=175.102.0.0/19 disabled=no list=CNip comment=CNipv4
