@@ -5524,7 +5524,6 @@ add address=145.14.84.0/24 disabled=no list=CNip comment=CNipv4
 add address=145.14.86.0/24 disabled=no list=CNip comment=CNipv4
 add address=145.14.88.0/24 disabled=no list=CNip comment=CNipv4
 add address=145.14.90.0/24 disabled=no list=CNip comment=CNipv4
-add address=145.6.0.0/16 disabled=no list=CNip comment=CNipv4
 add address=146.19.167.0/24 disabled=no list=CNip comment=CNipv4
 add address=146.19.236.0/24 disabled=no list=CNip comment=CNipv4
 add address=146.196.112.0/21 disabled=no list=CNip comment=CNipv4
