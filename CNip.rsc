@@ -5675,6 +5675,7 @@ add address=157.10.218.0/23 disabled=no list=CNip comment=CNipv4
 add address=157.10.220.0/23 disabled=no list=CNip comment=CNipv4
 add address=157.10.246.0/23 disabled=no list=CNip comment=CNipv4
 add address=157.10.34.0/23 disabled=no list=CNip comment=CNipv4
+add address=157.10.34.0/24 disabled=no list=CNip comment=CNipv4
 add address=157.10.36.0/23 disabled=no list=CNip comment=CNipv4
 add address=157.119.12.0/22 disabled=no list=CNip comment=CNipv4
 add address=157.119.132.0/22 disabled=no list=CNip comment=CNipv4
