@@ -5934,6 +5934,7 @@ add address=163.53.36.0/22 disabled=no list=CNip comment=CNipv4
 add address=163.53.4.0/22 disabled=no list=CNip comment=CNipv4
 add address=163.53.40.0/22 disabled=no list=CNip comment=CNipv4
 add address=163.53.44.0/22 disabled=no list=CNip comment=CNipv4
+add address=163.53.44.0/23 disabled=no list=CNip comment=CNipv4
 add address=163.53.48.0/22 disabled=no list=CNip comment=CNipv4
 add address=163.53.52.0/22 disabled=no list=CNip comment=CNipv4
 add address=163.53.56.0/22 disabled=no list=CNip comment=CNipv4
