@@ -8116,6 +8116,7 @@ add address=203.95.224.0/19 disabled=no list=CNip
 add address=203.95.4.0/22 disabled=no list=CNip
 add address=203.95.96.0/20 disabled=no list=CNip
 add address=203.99.16.0/20 disabled=no list=CNip
+add address=203.99.18.0/24 disabled=no list=CNip
 add address=203.99.20.0/22 disabled=no list=CNip
 add address=203.99.24.0/21 disabled=no list=CNip
 add address=203.99.8.0/21 disabled=no list=CNip
