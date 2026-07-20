@@ -3957,6 +3957,7 @@ add address=113.47.96.0/21 disabled=no list=CNip
 add address=113.48.0.0/14 disabled=no list=CNip
 add address=113.48.127.0/24 disabled=no list=CNip
 add address=113.48.224.0/20 disabled=no list=CNip
+add address=113.48.48.0/20 disabled=no list=CNip
 add address=113.49.0.0/19 disabled=no list=CNip
 add address=113.50.0.0/20 disabled=no list=CNip
 add address=113.50.32.0/24 disabled=no list=CNip
