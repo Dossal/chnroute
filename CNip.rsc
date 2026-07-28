@@ -6180,6 +6180,7 @@ add address=183.91.63.0/24 disabled=no list=CNip
 add address=183.92.0.0/14 disabled=no list=CNip
 add address=185.75.173.0/24 disabled=no list=CNip
 add address=185.75.174.0/24 disabled=no list=CNip
+add address=186.241.179.0/24 disabled=no list=CNip
 add address=186.241.181.0/24 disabled=no list=CNip
 add address=188.131.128.0/17 disabled=no list=CNip
 add address=188.220.7.0/24 disabled=no list=CNip
