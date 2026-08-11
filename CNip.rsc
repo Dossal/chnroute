@@ -8719,6 +8719,7 @@ add address=219.234.80.0/20 disabled=no list=CNip
 add address=219.234.96.0/19 disabled=no list=CNip
 add address=219.235.0.0/20 disabled=no list=CNip
 add address=219.235.128.0/19 disabled=no list=CNip
+add address=219.235.164.0/23 disabled=no list=CNip
 add address=219.235.192.0/23 disabled=no list=CNip
 add address=219.235.207.0/24 disabled=no list=CNip
 add address=219.235.224.0/22 disabled=no list=CNip
