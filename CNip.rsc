@@ -8642,6 +8642,7 @@ add address=218.96.241.0/24 disabled=no list=CNip
 add address=218.96.244.0/24 disabled=no list=CNip
 add address=218.96.255.0/24 disabled=no list=CNip
 add address=218.96.64.0/22 disabled=no list=CNip
+add address=218.96.70.0/23 disabled=no list=CNip
 add address=218.97.0.0/17 disabled=no list=CNip
 add address=218.97.160.0/19 disabled=no list=CNip
 add address=218.97.192.0/19 disabled=no list=CNip
