@@ -2091,7 +2091,6 @@ add address=103.250.192.0/22 disabled=no list=CNip
 add address=103.250.216.0/22 disabled=no list=CNip
 add address=103.250.224.0/22 disabled=no list=CNip
 add address=103.250.236.0/22 disabled=no list=CNip
-add address=103.250.248.0/21 disabled=no list=CNip
 add address=103.250.248.0/22 disabled=no list=CNip
 add address=103.250.252.0/22 disabled=no list=CNip
 add address=103.250.32.0/22 disabled=no list=CNip
