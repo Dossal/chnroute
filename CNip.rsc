@@ -7378,7 +7378,7 @@ add address=203.202.236.0/23 disabled=no list=CNip
 add address=203.205.128.0/17 disabled=no list=CNip
 add address=203.205.64.0/19 disabled=no list=CNip
 add address=203.205.88.0/22 disabled=no list=CNip
-add address=203.205.92.0/24 disabled=no list=CNip
+add address=203.205.92.0/23 disabled=no list=CNip
 add address=203.205.95.0/24 disabled=no list=CNip
 add address=203.207.104.0/22 disabled=no list=CNip
 add address=203.207.112.0/20 disabled=no list=CNip
