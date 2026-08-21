@@ -672,7 +672,6 @@ add address=103.144.40.0/23 disabled=no list=CNip
 add address=103.144.52.0/23 disabled=no list=CNip
 add address=103.144.66.0/23 disabled=no list=CNip
 add address=103.144.70.0/23 disabled=no list=CNip
-add address=103.144.70.0/24 disabled=no list=CNip
 add address=103.144.72.0/23 disabled=no list=CNip
 add address=103.145.188.0/23 disabled=no list=CNip
 add address=103.145.190.0/23 disabled=no list=CNip
@@ -6171,6 +6170,7 @@ add address=192.232.44.0/23 disabled=no list=CNip
 add address=192.232.46.0/23 disabled=no list=CNip
 add address=192.232.97.0/24 disabled=no list=CNip
 add address=192.51.172.0/23 disabled=no list=CNip
+add address=192.51.173.0/24 disabled=no list=CNip
 add address=192.51.188.0/24 disabled=no list=CNip
 add address=192.55.46.0/23 disabled=no list=CNip
 add address=192.55.68.0/22 disabled=no list=CNip
