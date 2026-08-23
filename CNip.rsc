@@ -3296,6 +3296,7 @@ add address=103.80.28.0/22 disabled=no list=CNip
 add address=103.80.44.0/22 disabled=no list=CNip
 add address=103.80.72.0/22 disabled=no list=CNip
 add address=103.81.120.0/22 disabled=no list=CNip
+add address=103.81.120.0/24 disabled=no list=CNip
 add address=103.81.123.0/24 disabled=no list=CNip
 add address=103.81.148.0/22 disabled=no list=CNip
 add address=103.81.16.0/22 disabled=no list=CNip
