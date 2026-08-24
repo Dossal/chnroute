@@ -921,7 +921,6 @@ add address=103.185.80.0/23 disabled=no list=CNip
 add address=103.186.108.0/23 disabled=no list=CNip
 add address=103.186.112.0/23 disabled=no list=CNip
 add address=103.186.136.0/23 disabled=no list=CNip
-add address=103.186.158.0/23 disabled=no list=CNip
 add address=103.186.162.0/23 disabled=no list=CNip
 add address=103.186.228.0/23 disabled=no list=CNip
 add address=103.186.4.0/23 disabled=no list=CNip
@@ -2812,7 +2811,6 @@ add address=103.50.60.0/22 disabled=no list=CNip
 add address=103.50.64.0/22 disabled=no list=CNip
 add address=103.50.68.0/22 disabled=no list=CNip
 add address=103.50.72.0/22 disabled=no list=CNip
-add address=103.51.62.0/23 disabled=no list=CNip
 add address=103.52.100.0/22 disabled=no list=CNip
 add address=103.52.104.0/22 disabled=no list=CNip
 add address=103.52.160.0/22 disabled=no list=CNip
@@ -3296,7 +3294,6 @@ add address=103.80.28.0/22 disabled=no list=CNip
 add address=103.80.44.0/22 disabled=no list=CNip
 add address=103.80.72.0/22 disabled=no list=CNip
 add address=103.81.120.0/22 disabled=no list=CNip
-add address=103.81.120.0/24 disabled=no list=CNip
 add address=103.81.123.0/24 disabled=no list=CNip
 add address=103.81.148.0/22 disabled=no list=CNip
 add address=103.81.16.0/22 disabled=no list=CNip
@@ -5347,6 +5344,8 @@ add address=125.210.0.0/16 disabled=no list=CNip
 add address=125.211.0.0/16 disabled=no list=CNip
 add address=125.213.0.0/17 disabled=no list=CNip
 add address=125.213.32.0/20 disabled=no list=CNip
+add address=125.214.104.0/21 disabled=no list=CNip
+add address=125.214.112.0/20 disabled=no list=CNip
 add address=125.214.96.0/19 disabled=no list=CNip
 add address=125.215.0.0/18 disabled=no list=CNip
 add address=125.215.36.0/23 disabled=no list=CNip
@@ -8588,7 +8587,7 @@ add address=218.245.0.0/17 disabled=no list=CNip
 add address=218.246.0.0/15 disabled=no list=CNip
 add address=218.246.0.0/19 disabled=no list=CNip
 add address=218.246.160.0/19 disabled=no list=CNip
-add address=218.246.192.0/19 disabled=no list=CNip
+add address=218.246.208.0/20 disabled=no list=CNip
 add address=218.246.32.0/22 disabled=no list=CNip
 add address=218.246.48.0/22 disabled=no list=CNip
 add address=218.246.64.0/18 disabled=no list=CNip
