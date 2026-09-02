@@ -3887,6 +3887,8 @@ add address=106.75.224.0/19 disabled=no list=CNip
 add address=106.8.0.0/15 disabled=no list=CNip
 add address=106.80.0.0/12 disabled=no list=CNip
 add address=109.244.0.0/16 disabled=no list=CNip
+add address=110.100.0.0/14 disabled=no list=CNip
+add address=110.104.0.0/13 disabled=no list=CNip
 add address=110.112.0.0/13 disabled=no list=CNip
 add address=110.120.0.0/16 disabled=no list=CNip
 add address=110.121.0.0/22 disabled=no list=CNip
@@ -3949,7 +3951,8 @@ add address=110.92.68.0/22 disabled=no list=CNip
 add address=110.93.32.0/19 disabled=no list=CNip
 add address=110.94.0.0/15 disabled=no list=CNip
 add address=110.96.0.0/11 disabled=no list=CNip
-add address=110.96.0.0/12 disabled=no list=CNip
+add address=110.96.0.0/15 disabled=no list=CNip
+add address=110.98.0.0/16 disabled=no list=CNip
 add address=111.0.0.0/10 disabled=no list=CNip
 add address=111.112.0.0/14 disabled=no list=CNip
 add address=111.112.0.0/15 disabled=no list=CNip
@@ -5836,12 +5839,6 @@ add address=180.210.224.0/19 disabled=no list=CNip
 add address=180.212.0.0/15 disabled=no list=CNip
 add address=180.222.224.0/19 disabled=no list=CNip
 add address=180.223.0.0/16 disabled=no list=CNip
-add address=180.223.196.0/24 disabled=no list=CNip
-add address=180.223.200.0/22 disabled=no list=CNip
-add address=180.223.212.0/24 disabled=no list=CNip
-add address=180.223.232.0/21 disabled=no list=CNip
-add address=180.223.240.0/21 disabled=no list=CNip
-add address=180.223.252.0/22 disabled=no list=CNip
 add address=180.233.0.0/18 disabled=no list=CNip
 add address=180.233.144.0/22 disabled=no list=CNip
 add address=180.233.64.0/19 disabled=no list=CNip
@@ -7902,6 +7899,7 @@ add address=203.99.8.0/21 disabled=no list=CNip
 add address=203.99.8.0/23 disabled=no list=CNip
 add address=203.99.80.0/20 disabled=no list=CNip
 add address=204.52.191.0/24 disabled=no list=CNip
+add address=206.109.70.0/23 disabled=no list=CNip
 add address=206.109.75.0/24 disabled=no list=CNip
 add address=210.12.0.0/15 disabled=no list=CNip
 add address=210.12.0.0/18 disabled=no list=CNip
