@@ -5020,7 +5020,6 @@ add address=123.49.232.0/22 disabled=no list=CNip
 add address=123.49.236.0/24 disabled=no list=CNip
 add address=123.49.240.0/24 disabled=no list=CNip
 add address=123.49.242.0/23 disabled=no list=CNip
-add address=123.49.245.0/24 disabled=no list=CNip
 add address=123.49.248.0/21 disabled=no list=CNip
 add address=123.50.160.0/19 disabled=no list=CNip
 add address=123.52.0.0/14 disabled=no list=CNip
