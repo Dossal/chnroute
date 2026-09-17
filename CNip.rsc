@@ -3925,6 +3925,16 @@ add address=110.34.40.0/21 disabled=no list=CNip
 add address=110.34.40.0/22 disabled=no list=CNip
 add address=110.34.44.0/22 disabled=no list=CNip
 add address=110.40.0.0/14 disabled=no list=CNip
+add address=110.40.0.0/15 disabled=no list=CNip
+add address=110.42.0.0/20 disabled=no list=CNip
+add address=110.42.128.0/17 disabled=no list=CNip
+add address=110.42.16.0/24 disabled=no list=CNip
+add address=110.42.18.0/23 disabled=no list=CNip
+add address=110.42.20.0/22 disabled=no list=CNip
+add address=110.42.24.0/21 disabled=no list=CNip
+add address=110.42.32.0/19 disabled=no list=CNip
+add address=110.42.64.0/18 disabled=no list=CNip
+add address=110.43.0.0/16 disabled=no list=CNip
 add address=110.44.12.0/22 disabled=no list=CNip
 add address=110.44.144.0/20 disabled=no list=CNip
 add address=110.48.0.0/16 disabled=no list=CNip
