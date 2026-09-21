@@ -3890,6 +3890,7 @@ add address=106.75.224.0/19 disabled=no list=CNip
 add address=106.8.0.0/15 disabled=no list=CNip
 add address=106.80.0.0/12 disabled=no list=CNip
 add address=109.244.0.0/16 disabled=no list=CNip
+add address=109.66.22.0/23 disabled=no list=CNip
 add address=110.100.0.0/14 disabled=no list=CNip
 add address=110.104.0.0/13 disabled=no list=CNip
 add address=110.112.0.0/13 disabled=no list=CNip
