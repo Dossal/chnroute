@@ -2084,7 +2084,7 @@ add address=103.251.128.0/22 disabled=no list=CNip
 add address=103.251.160.0/22 disabled=no list=CNip
 add address=103.251.192.0/22 disabled=no list=CNip
 add address=103.251.204.0/22 disabled=no list=CNip
-add address=103.251.205.0/24 disabled=no list=CNip
+add address=103.251.204.0/23 disabled=no list=CNip
 add address=103.251.207.0/24 disabled=no list=CNip
 add address=103.251.240.0/22 disabled=no list=CNip
 add address=103.251.32.0/22 disabled=no list=CNip
