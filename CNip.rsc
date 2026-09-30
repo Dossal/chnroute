@@ -9996,6 +9996,7 @@ add address=43.240.72.0/22 disabled=no list=CNip
 add address=43.240.76.0/22 disabled=no list=CNip
 add address=43.240.84.0/22 disabled=no list=CNip
 add address=43.241.0.0/22 disabled=no list=CNip
+add address=43.241.100.0/23 disabled=no list=CNip
 add address=43.241.112.0/22 disabled=no list=CNip
 add address=43.241.12.0/22 disabled=no list=CNip
 add address=43.241.16.0/22 disabled=no list=CNip
@@ -10307,6 +10308,7 @@ add address=44.30.149.0/24 disabled=no list=CNip
 add address=44.30.152.0/24 disabled=no list=CNip
 add address=44.30.164.0/24 disabled=no list=CNip
 add address=44.30.171.0/24 disabled=no list=CNip
+add address=44.30.180.0/24 disabled=no list=CNip
 add address=44.30.190.0/24 disabled=no list=CNip
 add address=44.31.216.0/24 disabled=no list=CNip
 add address=44.31.28.0/24 disabled=no list=CNip
