@@ -9464,9 +9464,8 @@ add address=43.109.2.0/24 disabled=no list=CNip
 add address=43.109.200.0/23 disabled=no list=CNip
 add address=43.109.202.0/24 disabled=no list=CNip
 add address=43.109.206.0/23 disabled=no list=CNip
-add address=43.109.208.0/23 disabled=no list=CNip
+add address=43.109.208.0/22 disabled=no list=CNip
 add address=43.109.21.0/24 disabled=no list=CNip
-add address=43.109.211.0/24 disabled=no list=CNip
 add address=43.109.214.0/23 disabled=no list=CNip
 add address=43.109.216.0/21 disabled=no list=CNip
 add address=43.109.22.0/24 disabled=no list=CNip
