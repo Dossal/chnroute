@@ -5974,7 +5974,6 @@ add address=163.61.178.0/23 disabled=no list=CNip
 add address=163.61.202.0/23 disabled=no list=CNip
 add address=163.61.214.0/23 disabled=no list=CNip
 add address=163.61.62.0/23 disabled=no list=CNip
-add address=164.163.236.0/22 disabled=no list=CNip
 add address=164.52.0.0/17 disabled=no list=CNip
 add address=165.101.122.0/23 disabled=no list=CNip
 add address=165.101.144.0/23 disabled=no list=CNip
