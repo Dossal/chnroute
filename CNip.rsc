@@ -922,6 +922,7 @@ add address=103.186.4.0/23 disabled=no list=CNip
 add address=103.189.140.0/23 disabled=no list=CNip
 add address=103.189.152.0/23 disabled=no list=CNip
 add address=103.189.154.0/23 disabled=no list=CNip
+add address=103.189.197.0/24 disabled=no list=CNip
 add address=103.189.92.0/23 disabled=no list=CNip
 add address=103.19.12.0/22 disabled=no list=CNip
 add address=103.19.232.0/22 disabled=no list=CNip
@@ -1979,7 +1980,7 @@ add address=103.241.92.0/22 disabled=no list=CNip
 add address=103.241.95.0/24 disabled=no list=CNip
 add address=103.241.96.0/22 disabled=no list=CNip
 add address=103.242.128.0/22 disabled=no list=CNip
-add address=103.242.128.0/24 disabled=no list=CNip
+add address=103.242.128.0/23 disabled=no list=CNip
 add address=103.242.130.0/24 disabled=no list=CNip
 add address=103.242.132.0/22 disabled=no list=CNip
 add address=103.242.160.0/22 disabled=no list=CNip
@@ -8731,11 +8732,10 @@ add address=218.98.111.0/24 disabled=no list=CNip
 add address=218.98.112.0/20 disabled=no list=CNip
 add address=218.98.128.0/18 disabled=no list=CNip
 add address=218.98.160.0/24 disabled=no list=CNip
-add address=218.98.176.0/22 disabled=no list=CNip
-add address=218.98.180.0/23 disabled=no list=CNip
-add address=218.98.182.0/24 disabled=no list=CNip
+add address=218.98.176.0/21 disabled=no list=CNip
 add address=218.98.192.0/19 disabled=no list=CNip
 add address=218.98.192.0/24 disabled=no list=CNip
+add address=218.98.208.0/21 disabled=no list=CNip
 add address=218.98.224.0/19 disabled=no list=CNip
 add address=218.98.96.0/21 disabled=no list=CNip
 add address=218.99.0.0/16 disabled=no list=CNip
@@ -11250,6 +11250,7 @@ add address=60.176.0.0/12 disabled=no list=CNip
 add address=60.194.0.0/15 disabled=no list=CNip
 add address=60.200.0.0/14 disabled=no list=CNip
 add address=60.200.0.0/24 disabled=no list=CNip
+add address=60.200.35.0/24 disabled=no list=CNip
 add address=60.204.0.0/14 disabled=no list=CNip
 add address=60.204.0.0/16 disabled=no list=CNip
 add address=60.205.0.0/16 disabled=no list=CNip
