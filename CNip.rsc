@@ -5120,7 +5120,6 @@ add address=123.4.0.0/14 disabled=no list=CNip
 add address=123.49.128.0/17 disabled=no list=CNip
 add address=123.49.192.0/23 disabled=no list=CNip
 add address=123.49.194.0/24 disabled=no list=CNip
-add address=123.49.196.0/24 disabled=no list=CNip
 add address=123.49.231.0/24 disabled=no list=CNip
 add address=123.49.232.0/24 disabled=no list=CNip
 add address=123.49.237.0/24 disabled=no list=CNip
