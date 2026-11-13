@@ -5481,6 +5481,7 @@ add address=140.75.0.0/16 disabled=no list=CNip
 add address=141.11.210.0/24 disabled=no list=CNip
 add address=141.11.219.0/24 disabled=no list=CNip
 add address=141.229.14.0/23 disabled=no list=CNip
+add address=141.229.20.0/23 disabled=no list=CNip
 add address=142.86.0.0/16 disabled=no list=CNip
 add address=142.86.252.0/23 disabled=no list=CNip
 add address=142.86.254.0/24 disabled=no list=CNip
